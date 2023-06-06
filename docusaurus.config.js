@@ -66,8 +66,8 @@ const config = {
       navbar: {
         title: 'Diamond',
         logo: {
-          alt: 'Diamond Logo',
-          src: 'img/logo.png',
+          alt: 'My Site Logo',
+          src: 'img/logo.svg',
         },
         items: [
           {
