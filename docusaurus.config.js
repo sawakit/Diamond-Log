@@ -67,7 +67,7 @@ const config = {
         title: 'Diamond',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.pngg',
+          src: 'img/logo.png',
         },
         items: [
           {
